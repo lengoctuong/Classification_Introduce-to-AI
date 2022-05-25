@@ -1,10 +1,10 @@
-# DECISION TREE ALGORITHM
+# **DECISION TREE ALGORITHM**
 
-## About - LE NGOC TUONG
+## *About - LE NGOC TUONG*
 
-### Gini Index
-### Split a dataset (Phân tách dữ liệu dựa vào Gini Index)
-### Huấn luyện
-### Phân lớp (Classify)
-### Print tree
-### Kiểm tra độ chính xác
+### 1. Gini Index
+### 2. Split a dataset (Phân tách dữ liệu dựa vào Gini Index)
+### 3. Huấn luyện
+### 4. Phân lớp (Classify)
+### 5.  Print tree
+### 6. Kiểm tra độ chính xác
