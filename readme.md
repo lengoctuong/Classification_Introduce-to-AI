@@ -1,4 +1,4 @@
-# **DECISION TREE ALGORITHM**
+x# **DECISION TREE ALGORITHM**
 
 ## *About - LE NGOC TUONG*
 
@@ -8,3 +8,7 @@
 ### 4. Phân lớp (Classify)
 ### 5.  Print tree
 ### 6. Kiểm tra độ chính xác
+#### a
+- 1
+- 2
+#### b
